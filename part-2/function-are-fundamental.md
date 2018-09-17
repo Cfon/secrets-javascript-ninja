@@ -83,7 +83,8 @@ JavaScript с таких языков, как Jаvа, которые опред�
 > Подробнее о том, как язык JavaScript получил свое нынешнее название,
 > можно узнать по следующим адресам: 
 > - http://ru.wikipedia.org/wiki/JavaScript#History
-> - http://web.archive.org/weЬ/20070916144913/http://wp.netscape.com/newsref/pr/newsrelease67.html
+> - http://web.archive.org/web/20070916144913/http://wp.netscape.com/newsref/pr/newsrelease67.html
+> - https://web.archive.org/web/20070916144913/http://wp.netscape.com/newsref/pr/newsrelease67.html
 > - http://stackoverflow.com/questions/2018731/why-is-javascript-calledjavascript-since-it-has-nothing-to-do-with-java
 
 Ознакомившись с материалами, приведенными по указанным ссылкам, вы
